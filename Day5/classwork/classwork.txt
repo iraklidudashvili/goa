@@ -1,0 +1,10 @@
+String = ბრჭყალებში მოთავსებული ტექსტი
+Quotation marks = ბრჭყალები
+Integer = მთელი რიცხვი
+Float = წილადი რიცხვი
+Concatenation = სტრინგების შეერთება
+Parenthesis = ფრჩხილები
+Declare = ცვლადის დეკლარირება (შექმნა)
+Str=String
+int=Integer
+Float=Float
