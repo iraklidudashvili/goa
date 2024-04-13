@@ -1,76 +1,10 @@
-# name="irakli"
-# print(type(name))
+name="irakli" 
+print(type(name))
 
-# age=13
-# print(type(age))
+age=13 
 
-# calculation=15/5
-# print(type(calculation))
+print(type(age))
 
+calculation=15/5
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-mom="mari daraselia"
-
-dad="grigol dudashvili"
-
-mom_age=39
-
-dad_age=45
-
-calculation=45/39
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+print(type(calculation))
