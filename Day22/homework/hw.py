@@ -61,8 +61,10 @@
 #     print("not nakiani")
 
 
-num = (input("enter word:"))
-if num == num[::-1]:
-    print("number is palindrome")
-else:
-    print("not palindrome")
+# num = (input("enter word:"))
+# if num == num[::-1]:
+#     print("word is palindrome")
+# else:
+#     print("word is not palindrome")
+
+
